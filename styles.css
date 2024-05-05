@@ -33,7 +33,7 @@ a {
 
 a:hover {
     color: rgb(132, 14, 201);
-    transition: 0.3s all;
+    transition: .3s all;
 
 }
 
